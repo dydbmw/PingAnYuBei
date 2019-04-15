@@ -12,7 +12,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://ybzz.icitypf.com/uploadFile/clue/appStore/ipa/2019/4/15/112528994572.ipa</string>
+						<string>http://ybzz.icitypf.com/uploadFile/clue/appStore/ipa/2019/4/15/115317266319.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -20,7 +20,7 @@
 					<key>bundle-identifier</key>
 					<string>com.tianque.clue.yubei</string>
 					<key>bundle-version</key>
-					<string>1.0.0</string>
+					<string>1.0.1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
